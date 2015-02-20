@@ -1,2 +1,2 @@
 # AngJS
-Learning AngularJS
+Learning AngularJS from the second branch.
